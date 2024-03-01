@@ -16,3 +16,9 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
+
+/storage/app/public/employees/*
+!/storage/app/public/employees/.gitkeep
+/storage/app/public/items/*
+!/storage/app/public/items/.gitkeep
+/storage/app/public/users/*
