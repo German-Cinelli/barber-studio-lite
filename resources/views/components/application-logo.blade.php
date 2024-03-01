@@ -1,1 +1,1 @@
-<img src="{{ asset('storage/logo/128/' . \App\Models\Setting::first()->logo) }}" width="128px" alt="Image" loading="lazy">
+<img src="{{ asset('coderstrike_isotipo.png') }}" width="128px" alt="Image" loading="lazy">

@@ -14,7 +14,6 @@
         "laraveles/spanish": "^1.5",
         "livewire/livewire": "^3.0",
         "livewire/volt": "^1.0",
-        "spatie/laravel-backup": "^8.4",
         "spatie/laravel-permission": "^6.0"
     },
     "require-dev": {

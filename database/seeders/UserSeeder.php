@@ -35,15 +35,5 @@ class UserSeeder extends Seeder
         ]);
 
         $user->assignRole(['Admin']);
-
-        $user = User::create([
-            'name' => 'Cliente',
-            'email' => 'customer@coderstrike.com',
-            'password' => bcrypt('1234'),
-            'created_at' => now(),
-            'updated_at' => now()
-        ]);
-
-        $user->assignRole(['Customer']);
     }
 }

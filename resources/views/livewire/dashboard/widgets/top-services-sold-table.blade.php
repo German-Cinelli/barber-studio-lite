@@ -14,6 +14,6 @@
     </table>
 
     <div class="alert alert-info" role="alert">
-        Disponible e la versión <strong>PRO</strong>.
+        Disponible en la versión <strong>PRO</strong>.
     </div>
 </div>
